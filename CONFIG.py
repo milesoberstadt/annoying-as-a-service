@@ -1,0 +1,2 @@
+lastIOSversion=''
+lastMACOSversion=''
